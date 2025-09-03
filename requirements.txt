@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+selenium
+webdriver-manager
+beautifulsoup4
